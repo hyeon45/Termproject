@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82107\\source\\repos\\termProject\\termProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B98AC19D-72B5-4E9A-9D51-F5FC66717EFD}|termProject\\termProject.vcxproj|C:\\Users\\82107\\source\\repos\\termProject\\termProject\\termProject\\newfile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B98AC19D-72B5-4E9A-9D51-F5FC66717EFD}|termProject\\termProject.vcxproj|solutionrelative:termProject\\newfile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98AC19D-72B5-4E9A-9D51-F5FC66717EFD}|termProject\\termProject.vcxproj|C:\\Users\\82107\\source\\repos\\termProject\\termProject\\termProject\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B98AC19D-72B5-4E9A-9D51-F5FC66717EFD}|termProject\\termProject.vcxproj|solutionrelative:termProject\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "newfile.cpp",
+              "DocumentMoniker": "C:\\Users\\82107\\source\\repos\\termProject\\termProject\\termProject\\newfile.cpp",
+              "RelativeDocumentMoniker": "termProject\\newfile.cpp",
+              "ToolTip": "C:\\Users\\82107\\source\\repos\\termProject\\termProject\\termProject\\newfile.cpp*",
+              "RelativeToolTip": "termProject\\newfile.cpp*",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAPIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T13:05:36.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\82107\\source\\repos\\termProject\\termProject\\termProject\\FileName.cpp",
+              "RelativeDocumentMoniker": "termProject\\FileName.cpp",
+              "ToolTip": "C:\\Users\\82107\\source\\repos\\termProject\\termProject\\termProject\\FileName.cpp",
+              "RelativeToolTip": "termProject\\FileName.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T13:05:32.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
