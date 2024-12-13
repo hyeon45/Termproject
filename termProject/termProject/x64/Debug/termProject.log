@@ -1,0 +1,5 @@
+﻿  newfile.cpp
+C:\Users\82107\source\repos\termProject\termProject\termProject\newfile.cpp(230,54): warning C4312: '형식 캐스트': 'GLsizei'에서 더 큰 'GLvoid *'(으)로의 변환입니다.
+C:\Users\82107\source\repos\termProject\termProject\termProject\newfile.cpp(285,5): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+C:\Users\82107\source\repos\termProject\termProject\termProject\newfile.cpp(294,5): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+  termProject.vcxproj -> C:\Users\82107\source\repos\termProject\termProject\x64\Debug\termProject.exe
